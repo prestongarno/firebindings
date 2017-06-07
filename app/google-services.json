@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "444552226003",
+    "firebase_url": "https://firebindingsample.firebaseio.com",
+    "project_id": "firebindingsample",
+    "storage_bucket": "firebindingsample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444552226003:android:690f5a2d99b9a171",
+        "android_client_info": {
+          "package_name": "prestongarno.com.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444552226003-407puua5hd18iv8ks5onaokneaj4rr89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "prestongarno.com.firebase",
+            "certificate_hash": "cab92f5c703b435a5b65b7bf3c71a24b43d3dba0"
+          }
+        },
+        {
+          "client_id": "444552226003-3ca6ibc13jlnnj1s03smf4v9r8e1ugqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtwvO3wY4DWIzMtKK2MhgSHQAy3IXACdE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444552226003-3ca6ibc13jlnnj1s03smf4v9r8e1ugqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
